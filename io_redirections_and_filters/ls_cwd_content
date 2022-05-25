@@ -1,0 +1,32 @@
+total 48
+drwxr-xr-x 2 root root 4096 May 25 04:22 .
+drwxr-xr-x 6 root root  103 May 24 09:04 ..
+-rwxr-xr-x 1 root root   30 May 24 09:20 0-hello_world
+-rwxr-xr-x 1 root root   28 May 24 09:36 1-confused_smiley
+-rwxr-xr-x 1 root root   29 May 24 09:40 2-hellofile
+-rwxr-xr-x 1 root root   39 May 24 09:49 3-twofiles
+-rwxr-xr-x 1 root root   29 May 24 09:56 4-lastlines
+-rwxr-xr-x 1 root root   29 May 24 09:59 5-firstlines
+-rwxr-xr-x 1 root root   38 May 24 10:13 6-third_line
+-rwxr-xr-x 1 root root   78 May 25 02:56 7-file
+-rwxr-xr-x 1 root root   36 May 25 04:22 8-cwd_state
+-rw-r--r-- 1 root root    0 May 25 01:48 \\*\\\'"Best
+-rw-r--r-- 1 root root    0 May 25 02:37 \*\\'"Best aSchool"'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:27 \*\\'"Best aSchool"\'*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:33 \*\\'"Best aSchool"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:38 \*\\'"Best bSchool"'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:51 \*\\'"Best c2School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:46 \*\\'"Best cSchool"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:14 *\\\'"Best School"*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:17 *\\\'"Best School"\'*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:11 *\\\'"Best School"\\\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:22 \*\\'"Best School"\'*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:10 \*\\\'"Best School"\\\\\\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:08 \*\\\'"Best School"\\\\\\\\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:06 \*\\\'"Best School"\\\\\\\\\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 May 25 02:00 \\*\\\'"Best School"\\\\\\\\\\\\*$\\?\\*\\*\\*\\*\\*:)
+-rw-r--r-- 1 root root    0 May 25 03:02 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)1
+-rw-r--r-- 1 root root  801 May 24 10:10 iacta
+-rw-r--r-- 1 root root    0 May 25 04:23 ls_cwd_content
+-rw-r--r-- 1 root root   78 May 24 09:06 README.md
+-rw-r--r-- 1 root root    0 May 25 01:48 School"\\\\\\\\\\\\*$\\?\\*\\*\\*\\*\\*:)
