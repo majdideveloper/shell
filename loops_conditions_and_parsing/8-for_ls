@@ -4,6 +4,6 @@ for file in *-*
 do
 	r_name=${file#*-}
 	mv "$file" "$r_name"
-	echo $r_name
+	echo "$r_name"
 done
 
