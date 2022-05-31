@@ -3,5 +3,6 @@
 for file in *-*
 do
 	r_name=${file#*-}
-	mv $file $r_name
+	mv "$file" "$r_name"
 done
+ls -l
