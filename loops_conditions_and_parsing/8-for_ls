@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # change file name with for loop
-for file in *_*
+for file in *-*
 do
-	rename 's/\d_//'*
+	r_name=${file#*-}
+	mv $file $r_name
 done
