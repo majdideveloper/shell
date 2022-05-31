@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# create Clock whit while
+HOUR=0
+MINUTE=0
+while [ $HOUR -lt 12 ]
+do
+	echo Hour: $HOUR
+	while [ $MINUTE -lt 60 ]
+	do
+		echo $MINUTE
+		MINUTE=$(( MINUTE+1 ))
+	done
+HOUR=$(( HOUR+1 ))
+MINUTE=0
+done
+
