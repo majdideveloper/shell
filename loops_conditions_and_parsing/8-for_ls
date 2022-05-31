@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 # change file name with for loop
-for file in -*
+for file in *
+	mv "$file" "${file%-*}"
 do
-	r_name=${file#*-}
-	mv "$file" "$r_name"
-	echo "$r_name"
-done
+
 
