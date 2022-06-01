@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #kill the loop command
-kill -s 1 
+pkill -f 
 
