@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #kill the loop command
-kill 1 
+kill -s 1 
 
