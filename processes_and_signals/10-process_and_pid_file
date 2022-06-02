@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #create file and after kill this file 
 sudo touch /var/run/myscript.pid
-sudo bash -c 'echo $$ > /var/run/myscript.pid'
+sudo bash -c "echo $$ > /var/run/myscript.pid"
 while true
 do
     echo "To infinity and beyond"
