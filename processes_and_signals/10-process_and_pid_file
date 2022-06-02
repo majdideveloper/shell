@@ -1,4 +1,4 @@
-#!/usr/bin/env/ bash
+#!/usr/bin/env bash
 #create file and after kill this file 
 sudo touch /var/run/myscript.pid
 sudo bash -c 'echo $$ > /var/run/holbertonscript.pid'
