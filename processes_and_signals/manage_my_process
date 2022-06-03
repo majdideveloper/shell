@@ -1,0 +1,7 @@
+#!usr/bin/env bash 
+# create file with loop 
+wihle true 
+do 
+	echo "I am alive!" > /tmp/myprocess
+	sleep 2
+done
