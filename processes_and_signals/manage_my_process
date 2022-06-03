@@ -2,6 +2,6 @@
 # create file with loop 
 wihle true 
 do 
-	echo "I am alive!" > /tmp/myprocess
+	echo "I am alive!" > /tmp/my_process
 	sleep 2
 done
